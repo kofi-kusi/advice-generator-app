@@ -35,7 +35,6 @@ h5 {
 p {
     font-size: 28px;
     font-weight: bold;
-    
 }
 
 .dice {
@@ -54,4 +53,11 @@ p {
 
 .dice:hover {
     box-shadow: 0 0 15px hsl(150, 100%, 66%);
+}
+
+.advice {
+    font-size: 28px;
+    font-weight: bold;
+    display: inline;
+    margin: 30px 0;
 }
