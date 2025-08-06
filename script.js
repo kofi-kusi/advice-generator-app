@@ -10,9 +10,7 @@ async function getAdvice() {
     })
     .catch(function(err){
         alert(err)
-    })
-
-
+    }) 
 }
 
 
